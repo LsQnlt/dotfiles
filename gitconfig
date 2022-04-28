@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = louis.quenault@laposte.ent
+	email = louis.quenault@laposte.net
 	name = Louis Quenault
